@@ -9,6 +9,10 @@
   with a focus on reliable quantitative methods under real-world data and decision constraints.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/miaoc3/">LinkedIn</a>
+</p>
+
 ---
 
 ## Research Experience
@@ -50,9 +54,3 @@ Storm-conditioned hail modeling using MRMS radar, NOAA hail observations, and pr
 **Bai, Z., Chen, M.†, et al. (2024).**  
 [*Application of Linear Programming in Automatic Pricing and Replenishment Strategies for Vegetable Commodities*](https://stecep.deanfrancis.press/article/view/1516)  
 Co-first; †Corresponding Author.
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/miaoc3/)
