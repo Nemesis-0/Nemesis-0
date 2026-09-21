@@ -20,8 +20,8 @@
 **Illinois Mathematics Lab — In-Game Win Probabilities**  
 Probabilistic modeling, data validation, and model robustness for in-game NBA win probabilities.
 
-**Illinois Risk Lab — [BIRLIUR Climate Catastrophe Risk](https://github.com/Nemesis-0/storm-conditioned-hail-modeling)**  
-Storm-conditioned hail modeling using MRMS radar, NOAA hail observations, and probabilistic prediction.
+**Illinois Risk Lab — [BIRLIUR Climate Catastrophe Risk](https://github.com/Nemesis-0/storm-conditioned-hail-modeling)**
+Developed and evaluated storm-conditioned hail-occurrence models using MRMS radar, NOAA hail reports, and ERA5, with emphasis on calibration, transportability, and hierarchical probabilistic modeling.
 
 ---
 
