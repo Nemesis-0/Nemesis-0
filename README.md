@@ -31,24 +31,24 @@ Developed and evaluated hail-occurrence models using MRMS radar, NOAA hail repor
 
 ### Model Reliability & AI
 
-**[Clinical Risk Transportability Across Health Systems](https://github.com/Nemesis-0/clinical-risk-transportability)**  
-External validation, calibration, distribution shift, and target-system recalibration.
+- **[Clinical Risk Transportability Across Health Systems](https://github.com/Nemesis-0/clinical-risk-transportability)**  
+  External validation, calibration, distribution shift, and target-system recalibration.
 
-**[Interpretable AI for Dementia Screening](https://github.com/Nemesis-0/cognify-dementia-explanation)**  
-Evidence-grounded LLM explanations, feature attribution, and held-out evaluation.
+- **[Interpretable AI for Dementia Screening](https://github.com/Nemesis-0/cognify-dementia-explanation)**  
+  Evidence-grounded LLM explanations, feature attribution, and held-out evaluation.
 
 ### Forecasting & Optimization
 
-**[Stockout-Aware Replenishment Optimization](https://github.com/Nemesis-0/stockout-aware-replenishment-optimization)**  
-Demand reconstruction, leakage-free forecasting, and multi-period linear optimization.
+- **[Stockout-Aware Replenishment Optimization](https://github.com/Nemesis-0/stockout-aware-replenishment-optimization)**  
+  Demand reconstruction, leakage-free forecasting, and multi-period linear optimization.
 
-**[Atmospheric CO₂ Forecasting](https://github.com/Nemesis-0/atmospheric-co2-forecasting)**  
-Rolling-origin validation, predictive uncertainty, and untouched holdout evaluation.
+- **[Atmospheric CO₂ Forecasting](https://github.com/Nemesis-0/atmospheric-co2-forecasting)**  
+  Rolling-origin validation, predictive uncertainty, and untouched holdout evaluation.
 
 ### Statistical Modeling & Data Systems
 
-**[District-Day Count Modeling of Police Incident Reports](https://github.com/Nemesis-0/sfpd-district-day-count-modeling)**  
-PySpark, negative binomial regression, GEE, and large-scale panel construction.
+- **[District-Day Count Modeling of Police Incident Reports](https://github.com/Nemesis-0/sfpd-district-day-count-modeling)**  
+  PySpark, negative binomial regression, GEE, and large-scale panel construction.
 
 ---
 
