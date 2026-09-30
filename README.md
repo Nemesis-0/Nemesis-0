@@ -22,8 +22,8 @@
 **Illinois Mathematics Lab — In-Game Win Probabilities**  
 Probabilistic modeling, data validation, and model robustness for in-game NBA win probabilities.
 
-**Illinois Risk Lab — [BIRLIUR Climate Catastrophe Risk](https://github.com/Nemesis-0/hail-catastrophe-risk-modeling)**  
-Developed and evaluated hail-occurrence models using MRMS radar, NOAA hail reports, and ERA5, with emphasis on calibration, transportability, and hierarchical probabilistic modeling.
+**Illinois Risk Lab — Climate Catastrophe Risk Research**  
+Contribute to faculty-supervised research on climate catastrophe risk, with responsibilities in data-quality assessment, reproducible analysis, validation design, and interpretation of model behavior.
 
 ---
 
