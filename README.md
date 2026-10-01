@@ -20,10 +20,10 @@
 ## Research Experience
 
 **Illinois Mathematics Lab — In-Game Win Probabilities**  
-Probabilistic modeling, data validation, and model robustness for in-game NBA win probabilities.
+Faculty-supervised undergraduate research in probabilistic modeling, data validation, and robustness analysis for in-game win probabilities.
 
 **Illinois Risk Lab — Climate Catastrophe Risk Research**  
-Contribute to faculty-supervised research on climate catastrophe risk, with responsibilities in data-quality assessment, reproducible analysis, validation design, and interpretation of model behavior.
+Faculty-supervised undergraduate research in a confidential collaborative environment, with responsibilities in data-quality assessment, reproducible analysis, validation, and research documentation.
 
 ---
 
@@ -37,10 +37,13 @@ Contribute to faculty-supervised research on climate catastrophe risk, with resp
 - **[Interpretable AI for Dementia Screening](https://github.com/Nemesis-0/cognify-dementia-explanation)**  
   Evidence-grounded LLM explanations, feature attribution, and held-out evaluation.
 
-### Forecasting & Optimization
+### Forecasting, Markets & Optimization
 
 - **[Stockout-Aware Replenishment Optimization](https://github.com/Nemesis-0/stockout-aware-replenishment-optimization)**  
   Demand reconstruction, leakage-free forecasting, and multi-period linear optimization.
+
+- **[Weather Information and Prediction-Market Prices](https://github.com/Nemesis-0/weather-prediction-market)**  
+  Point-in-time weather and market-data reconstruction, probabilistic evaluation, and robustness analysis.
 
 - **[Atmospheric CO₂ Forecasting](https://github.com/Nemesis-0/atmospheric-co2-forecasting)**  
   Rolling-origin validation, predictive uncertainty, and untouched holdout evaluation.
