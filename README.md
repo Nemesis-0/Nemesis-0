@@ -1,11 +1,11 @@
 <h1 align="center">Miao Chen</h1>
 
 <p align="center">
-  Statistics undergraduate · University of Illinois Urbana-Champaign
+  Statistics @ UIUC · Machine Learning · Statistical Modeling · Optimization
 </p>
 
 <p align="center">
-  Statistical Modeling · Machine Learning · Data Science
+  Model Reliability · Uncertainty Quantification · Reproducible Research
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
   ·
   <a href="https://nemesis-0.github.io/">Website</a>
 </p>
-
-I work on statistical modeling, machine learning, and optimization, with a focus on model reliability, uncertainty, and reproducible analysis.
 
 ---
 
@@ -25,8 +23,6 @@ Faculty-supervised undergraduate research on in-game win probabilities, with con
 
 **Illinois Risk Lab — Climate Catastrophe Risk (Confidential Project)** · Fall 2026–present  
 Faculty-supervised undergraduate research on climate catastrophe risk, contributing to research code, data-quality assessment, reproducibility, and technical documentation.
-
-*Both research repositories are private. These summaries describe general topics and responsibilities.*
 
 ---
 
@@ -60,15 +56,6 @@ Faculty-supervised undergraduate research on climate catastrophe risk, contribut
 
 ## Publication
 
-Bai, Z., **Chen, M.**, Wang, H., Wen, Z., & Zhan, C. (2024).  
+Bai, Z., **Chen, M.†**, et al. (2024).  
 [*Application of Linear Programming in Automatic Pricing and Replenishment Strategies for Vegetable Commodities*](https://doi.org/10.61173/b9pjct51).  
-*Science and Technology of Engineering, Chemistry and Environmental Protection*, 2(5), 3092.  
-**Co-first and corresponding author.**
-
----
-
-## Technical Toolkit
-
-**Programming & data:** Python, R, SQL, PySpark/Spark SQL, pandas, NumPy, Git  
-**Modeling & computation:** PyTorch, SciPy, scikit-learn, statsmodels
-
+*Science and Technology of Engineering, Chemistry and Environmental Protection.* **Co-first; †Corresponding.**
