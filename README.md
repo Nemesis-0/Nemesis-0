@@ -1,12 +1,11 @@
 <h1 align="center">Miao Chen</h1>
 
 <p align="center">
-  Statistics @ UIUC · Statistical Modeling · Machine Learning · Data Science
+  Statistics undergraduate · University of Illinois Urbana-Champaign
 </p>
 
 <p align="center">
-  Interested in statistical modeling, machine learning, model validation, and optimization,
-  with a focus on reliable quantitative methods under real-world data and decision constraints.
+  Statistical Modeling · Machine Learning · Data Science
 </p>
 
 <p align="center">
@@ -15,48 +14,61 @@
   <a href="https://nemesis-0.github.io/">Website</a>
 </p>
 
+I work on statistical modeling, machine learning, and optimization, with a focus on model reliability, uncertainty, and reproducible analysis.
+
 ---
 
 ## Research Experience
 
-**Illinois Mathematics Lab — In-Game Win Probabilities**  
-Faculty-supervised undergraduate research in probabilistic modeling, data validation, and robustness analysis for in-game win probabilities.
+**Illinois Mathematics Lab — In-Game Win Probabilities** · Fall 2026–present  
+Faculty-supervised undergraduate research on in-game win probabilities, with contributions to statistical modeling, data validation, and research documentation.
 
-**Illinois Risk Lab — Climate Catastrophe Risk Research**  
-Faculty-supervised undergraduate research in a confidential collaborative environment, with responsibilities in data-quality assessment, reproducible analysis, validation, and research documentation.
+**Illinois Risk Lab — Climate Catastrophe Risk (Confidential Project)** · Fall 2026–present  
+Faculty-supervised undergraduate research on climate catastrophe risk, contributing to research code, data-quality assessment, reproducibility, and technical documentation.
+
+*Both research repositories are private. These summaries describe general topics and responsibilities.*
 
 ---
 
-## Independent Projects
+## Public Projects
 
-### Model Reliability & AI
+### Model Reliability & Interpretability
 
 - **[Clinical Risk Transportability Across Health Systems](https://github.com/Nemesis-0/clinical-risk-transportability)**  
-  External validation, calibration, distribution shift, and target-system recalibration.
+  Evaluated sepsis risk models across health systems using external validation, distribution-shift diagnostics, and cross-fitted recalibration, examining discrimination, calibration, and feature availability.
 
 - **[Interpretable AI for Dementia Screening](https://github.com/Nemesis-0/cognify-dementia-explanation)**  
-  Evidence-grounded LLM explanations, feature attribution, and held-out evaluation.
+  Developed evidence-grounded LLM explanations from classifier predictions and feature attributions for CognifyChallenge 2026, with development-only stress testing and frozen submission settings.
 
-### Forecasting, Markets & Optimization
-
-- **[Stockout-Aware Replenishment Optimization](https://github.com/Nemesis-0/stockout-aware-replenishment-optimization)**  
-  Demand reconstruction, leakage-free forecasting, and multi-period linear optimization.
+### Forecasting & Market Information
 
 - **[Weather Information and Prediction-Market Prices](https://github.com/Nemesis-0/weather-prediction-market)**  
-  Point-in-time weather and market-data reconstruction, probabilistic evaluation, and robustness analysis.
+  Studied weather forecasts and market prices through point-in-time data reconstruction, probabilistic model comparison, and forecast-revision event studies, with publication-time audits and moving-block bootstrap inference.
 
 - **[Atmospheric CO₂ Forecasting](https://github.com/Nemesis-0/atmospheric-co2-forecasting)**  
-  Rolling-origin validation, predictive uncertainty, and untouched holdout evaluation.
+  Compared baseline, ETS, and SARIMA forecasts using rolling-origin validation and a final holdout, evaluating forecast accuracy, interval coverage, and residual diagnostics.
 
-### Statistical Modeling & Data Systems
+### Statistical Modeling & Optimization
+
+- **[Stockout-Aware Replenishment Optimization for Perishable Retail](https://github.com/Nemesis-0/stockout-aware-replenishment-optimization)**  
+  Reconstructed demand under stockouts and linked temporally validated forecasts to multi-period replenishment optimization under shared capacity and inventory carryover, with service-allocation and sensitivity analyses.
 
 - **[District-Day Count Modeling of Police Incident Reports](https://github.com/Nemesis-0/sfpd-district-day-count-modeling)**  
-  PySpark, negative binomial regression, GEE, and large-scale panel construction.
+  Constructed district-day panels with PySpark and Spark SQL; analyzed report counts using negative binomial regression and GEE, with overdispersion and temporal-dependence diagnostics.
 
 ---
 
 ## Publication
 
-**Bai, Z., Chen, M.†, et al. (2024).**  
-[*Application of Linear Programming in Automatic Pricing and Replenishment Strategies for Vegetable Commodities*](https://stecep.deanfrancis.press/article/view/1516)  
-Co-first; †Corresponding Author.
+Bai, Z., **Chen, M.**, Wang, H., Wen, Z., & Zhan, C. (2024).  
+[*Application of Linear Programming in Automatic Pricing and Replenishment Strategies for Vegetable Commodities*](https://doi.org/10.61173/b9pjct51).  
+*Science and Technology of Engineering, Chemistry and Environmental Protection*, 2(5), 3092.  
+**Co-first and corresponding author.**
+
+---
+
+## Technical Toolkit
+
+**Programming & data:** Python, R, SQL, PySpark/Spark SQL, pandas, NumPy, Git  
+**Modeling & computation:** PyTorch, SciPy, scikit-learn, statsmodels
+
