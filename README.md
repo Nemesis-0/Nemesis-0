@@ -1,11 +1,7 @@
 <h1 align="center">Miao Chen</h1>
 
 <p align="center">
-  Statistics @ UIUC · Machine Learning · Statistical Modeling · Optimization
-</p>
-
-<p align="center">
-  Model Reliability · Uncertainty Quantification · Reproducible Research
+  Statistics @ UIUC | ML & Statistical Modeling | Reliable AI
 </p>
 
 <p align="center">
@@ -18,10 +14,10 @@
 
 ## Research Experience
 
-**Illinois Mathematics Lab — In-Game Win Probabilities** · Fall 2026–present  
+**Illinois Mathematics Lab — In-Game Win Probabilities**  
 Faculty-supervised undergraduate research on in-game win probabilities, with contributions to statistical modeling, data validation, and research documentation.
 
-**Illinois Risk Lab — Climate Catastrophe Risk (Confidential Project)** · Fall 2026–present  
+**Illinois Risk Lab — Climate Catastrophe Risk (Confidential Project)**  
 Faculty-supervised undergraduate research on climate catastrophe risk, contributing to research code, data-quality assessment, reproducibility, and technical documentation.
 
 ---
