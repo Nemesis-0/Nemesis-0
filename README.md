@@ -32,7 +32,7 @@ Faculty-supervised undergraduate research on climate catastrophe risk, contribut
 - **[Interpretable AI for Dementia Screening](https://github.com/Nemesis-0/cognify-dementia-explanation)**  
   Developed evidence-grounded LLM explanations from classifier predictions and feature attributions for CognifyChallenge 2026, with development-only stress testing and frozen submission settings.
 
-### Forecasting & Market Information
+### Forecasting & Sequential Data
 
 - **[Weather Information and Prediction-Market Prices](https://github.com/Nemesis-0/weather-prediction-market)**  
   Studied weather forecasts and market prices through point-in-time data reconstruction, probabilistic model comparison, and forecast-revision event studies, with publication-time audits and moving-block bootstrap inference.
