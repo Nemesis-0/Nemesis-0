@@ -35,7 +35,7 @@ Faculty-supervised undergraduate research on climate catastrophe risk, contribut
 ### Forecasting & Sequential Data
 
 - **[Weather Information and Prediction-Market Efficiency](https://github.com/Nemesis-0/weather-prediction-market)**  
-  Studied weather prediction-market efficiency using point-in-time reconstruction, forecast-revision event studies, and executable-price screens; found that settlement-source state explained most apparent executable edges.
+  Studied weather prediction-market efficiency using point-in-time reconstruction, forecast-revision event studies, and executable-price screens; found that most apparent executable edges vanished after conditioning on settlement-source state.
 
 - **[Atmospheric CO₂ Forecasting](https://github.com/Nemesis-0/atmospheric-co2-forecasting)**  
   Compared baseline, ETS, and SARIMA forecasts using rolling-origin validation and a final holdout, evaluating forecast accuracy, interval coverage, and residual diagnostics.
